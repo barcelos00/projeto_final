@@ -1,0 +1,14 @@
+C:\Users\victo\Desktop\API\ClienteApi\bin\Debug\net10.0\ClienteApi.exe
+C:\Users\victo\Desktop\API\ClienteApi\bin\Debug\net10.0\ClienteApi.deps.json
+C:\Users\victo\Desktop\API\ClienteApi\bin\Debug\net10.0\ClienteApi.runtimeconfig.json
+C:\Users\victo\Desktop\API\ClienteApi\bin\Debug\net10.0\ClienteApi.dll
+C:\Users\victo\Desktop\API\ClienteApi\bin\Debug\net10.0\ClienteApi.pdb
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.AssemblyInfo.cs
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.dll
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\refint\ClienteApi.dll
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.pdb
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ClienteApi.genruntimeconfig.cache
+C:\Users\victo\Desktop\API\ClienteApi\obj\Debug\net10.0\ref\ClienteApi.dll
